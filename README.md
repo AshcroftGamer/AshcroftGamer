@@ -1,6 +1,3 @@
-#
-## Tem café Java aí?
-#
 
 
 ### O que ando trabalhando?
