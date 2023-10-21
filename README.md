@@ -19,7 +19,7 @@
 </br> 
 <h1>O que ando trabalhando?</h1>
 <div>
-    <img height="160em"  src="https://github-readme-stats.vercel.app/api/pin/?username=ashcroftgamer&repo=aeChefia&theme=material-palenight" />
+    <img height="160em"  src="https://github-readme-stats.vercel.app/api/pin/?username=ashcroftgamer&repo=professor&theme=material-palenight" />
     <img height="160em"  src="https://github-readme-stats.vercel.app/api/pin/?username=ashcroftgamer&repo=bot_vks_LM&theme=material-palenight" />
 </div>
 
